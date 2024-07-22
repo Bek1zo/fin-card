@@ -1,6 +1,0 @@
-pipdeptree
-pylint
-autopep8
-mypy
-pydocstyle
-flask_cors
