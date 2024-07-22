@@ -1,0 +1,12 @@
+flasgger
+Flask
+flask_cors
+flask-marshmallow
+marshmallow
+odfpy
+Petrovich
+psycopg2-binary
+SQLAlchemy
+SQLAlchemy-Utils
+redis
+marshmallow_sqlalchemy
